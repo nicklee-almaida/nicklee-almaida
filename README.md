@@ -8,7 +8,7 @@
 
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/ur.n1ck)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicklee-almaida)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicklee-almaida-84763b339/)
 [![GitHub followers](https://img.shields.io/github/followers/nicklee-almaida?logo=GitHub&style=for-the-badge)](https://github.com/nicklee-almaida)
 [![Gmail](https://img.shields.io/badge/Email-almaidanicklee16@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:almaidanicklee16@gmail.com)
 
