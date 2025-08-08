@@ -67,7 +67,7 @@ I'm building:
 ## 🤝 Let's Connect
 
 - Email: almaidanicklee16@gmail.com
-- LinkedIn: [@nicklee-almaida](https://linkedin.com/in/nicklee-almaida)
+- LinkedIn: [@nicklee-almaida](https://www.linkedin.com/in/nicklee-almaida-84763b339/)
 - Facebook: [@ur.n1ck](https://fb.com/ur.n1ck)
 
 ---
