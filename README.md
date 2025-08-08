@@ -65,13 +65,5 @@ I'm building:
 
 ---
 
-## 🤝 Let's Connect
-
-- Email: [@almaidanicklee16@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRrlQqlRqVKkrqldwWfxWBXHQmbWrlfMqgwBFbzzLXWDwKbgQxWNWdclDKRcdDLmHxqvjTL)
-- LinkedIn: [@nicklee-almaida](https://www.linkedin.com/in/nicklee-almaida-84763b339/)
-- Facebook: [@ur.n1ck](https://fb.com/ur.n1ck)
-
----
-
 > ⚡ Fun Fact: I like to think I’m funny 😄
 
